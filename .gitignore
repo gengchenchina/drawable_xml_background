@@ -1,0 +1,7 @@
+*.swp
+*~
+bin/
+gen/
+*.prefs
+.DS_Store
+
