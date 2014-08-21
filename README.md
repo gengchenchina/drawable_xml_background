@@ -5,8 +5,8 @@ drawable_xml_background
 
 立体按钮效果
 
- ![image](https://github.com/gengchenchina/drawable_xml_background/tree/master/screenshot/device-2014-08-21-174623.png)
+ ![image](https://github.com/gengchenchina/drawable_xml_background/blob/master/screenshot/device-2014-08-21-174623.png)
  
  点击效果
  
- ![image](https://github.com/gengchenchina/drawable_xml_background/tree/master/screenshot/device-2014-08-21-174656.png)
+ ![image](https://github.com/gengchenchina/drawable_xml_background/blob/master/screenshot/device-2014-08-21-174656.png)
